@@ -21,7 +21,10 @@ function Contact() {
         <FaPhone /> 028 7188 6588
       </div>
       <div>
-        <FaCalendarAlt /> 9am - 6pm | Monday - Saturday
+        <FaCalendarAlt /> Monday to Friday | 9am - 6pm
+      </div>
+      <div>
+        <FaCalendarAlt /> Saturday | 9am - 4pm
       </div>
       <div>
         <FaMapSigns /> 5 Lifford Rd, Strabane, BT82 8ER
